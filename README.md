@@ -1,5 +1,5 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-## Karthick Kannan SP(212222060025)
+## Dharshini M(212222060025)
 
 ## AIM: 
  To Obtain DFT and FFT of a given sequence in SCILAB.
