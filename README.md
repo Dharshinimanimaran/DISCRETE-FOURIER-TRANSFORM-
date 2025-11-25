@@ -1,5 +1,5 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-## Oviya K P (212223060191)
+## Karthick Kannan SP(212222060025)
 
 ## AIM: 
  To Obtain DFT and FFT of a given sequence in SCILAB.
@@ -86,7 +86,3 @@ title('Inverse FFT OF X(K)');
 
 ## OUTPUT: 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/caf4ecdd-ffd5-4848-95ae-488129319b21" />
-
-## RESULT:
-  Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence were obtained
-and its magnitude and phase spectrum were plotted.
